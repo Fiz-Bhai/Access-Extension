@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "http://Fizbhai.com/"
+        "url": "http://FizBhai.com/"
       }
     },
     "condition": {
