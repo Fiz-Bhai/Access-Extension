@@ -1,16 +1,16 @@
 [
   {
-    "condition": {
-      "regexFilter": "^(https?://(www\\.)?(example\\.com|premiums\\.eagleseotools\\.com))(/.*)?$",
-      "resourceTypes": ["main_frame"]
-    },
-     "id": 1,
+    "id": 1,
     "priority": 1,
     "action": {
       "type": "redirect",
       "redirect": {
         "url": "http://test.com/"
       }
+    },
+    "condition": {
+      "regexFilter": "^(https?://(www\\.)?(example\\.com|premiums\\.eagleseotools\\.com))(/.*)?$",
+      "resourceTypes": ["main_frame"]
     }
   }
 ]
