@@ -1,10 +1,17 @@
 .jfN4p,
 .logo,
 .pastdue_popup_v1,
-.bg-opacity-50 {
+.bg-opacity-50,
+.hide {
   display: none !important;
+}
+.show {
+  display: block !important;
 }
 body{
     overflow: visible !important; /* or any other desired value */
     pointer-events: auto !important; /* or any other desired value */
 }
+
+/*hide,show (this is extesnion related access page code class)*/
+/*boddy,bg-opacity-50 (this is aiseo popup block class)*/
