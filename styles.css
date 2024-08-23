@@ -1,4 +1,10 @@
 .jfN4p,
-.logo {
+.logo,
+.pastdue_popup_v1,
+.bg-opacity-50 {
   display: none !important;
+}
+body{
+    overflow: visible !important; /* or any other desired value */
+    pointer-events: auto !important; /* or any other desired value */
 }
