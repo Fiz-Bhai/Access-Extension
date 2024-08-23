@@ -8,6 +8,9 @@
 .show {
   display: block !important;
 }
+.hpading {
+  margin-bottom: 15%;
+}
 body{
     overflow: visible !important; /* or any other desired value */
     pointer-events: auto !important; /* or any other desired value */
