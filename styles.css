@@ -2,14 +2,17 @@
 .logo,
 .pastdue_popup_v1,
 .bg-opacity-50,
-.hide {
+.hide,
+.sf-modal,
+.zone-name-title,
+#XCYt6 {
   display: none !important;
 }
 .show {
   display: block !important;
 }
 .hpading {
-  margin-bottom: 15%;
+  margin-bottom: 12% !important;
 }
 body{
     overflow: visible !important; /* or any other desired value */
@@ -18,3 +21,4 @@ body{
 
 /*hide,show (this is extesnion related access page code class)*/
 /*boddy,bg-opacity-50 (this is aiseo popup block class)*/
+
