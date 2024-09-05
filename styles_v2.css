@@ -8,11 +8,15 @@
 #XCYt6 {
   display: none !important;
 }
-.show {
+.show,
+.am-google-button {
   display: block !important;
 }
 .hpading {
   margin-bottom: 12% !important;
+}
+.am-signup-link{
+  margin-top: 0px !important;
 }
 body{
     overflow: visible !important; /* or any other desired value */
