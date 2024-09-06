@@ -1,86 +1,81 @@
 {
-    "cssFiles": [
-        "https://raw.githubusercontent.com/Fiz-Bhai/Access-Extension/main/styles_v2.css",
-        "https://another-link-to-css-file.css"
+    "https://www.google.com/*": [
+        ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
+        ".gb_Pe"
     ],
-    "hideSelectors": {
-        "https://app.vyond.com/*": [
+    "https://app.vyond.com/*": [
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
-        "https://www.google.com/*": [
-            ".gb_Pe"
-        ],
-        "https://quillbot.com/*": [
-            ".MuiToolbar-root.MuiToolbar-regular.css-ritaun"
-        ],
-        "https://copymatic.ai/*": [
-            ".navbar.navbar-top",
-            ".navbar-menu-wrapper.d-flex.align-items-stretch",
-            ".left-lower-menu"
-        ],
-        "https://vecteezy.com/*": [
-            ".ez-drop-down",
-            ".ez-drop-down.ez-site-header__submenu-wrapper.ez-site-header__user-menu.is-closed",
-            ".ez-avatar-wrapper",
-            ".ez-avatar.ez-avatar--small",
-            ".ez-site-header__mobile-menu",
-            ".ez-site-header__submenu-wrapper.ez-site-header__user-menu"
-        ],
-        "https://app.jasper.ai/*": [
-            ".px-4.pt-4.pb-5.space-y-3",
-            "#launcher"
-        ],
-        "https://canva.com/*": [
-            ".IMy50w.a6f7yQ.EOPyDg",
-            ".XDkc_A",
-            ".R3lH9w.DwB3TQ"
-        ],
-        "https://app.grammarly.com/*": [
-            "._36fcb0a4-index_navigation-account",
-            "._6d821727-index_navigation-help",
-            "._450061de-index_navigation-logout"
-        ],
-        "https://app.copy.ai/*": [
-            "#headlessui-menu-button-2",
-            ".border-t.border-grey-200.p-3.pb-4",
-            ".intercom-launcher-frame",
-            "#headlessui-menu-button-16"
-        ],
-        "https://app.smodin.io/*": [
-            ".MuiBox-root.css-mrkov2",
-            ".MuiBox-root.css-rerbwn"
-        ],
-        "https://studio.invideo.io/dashboard": [
-            "#fresh-chat-custom",
-            ".iv-relative .iv-avatar-link",
-            ".iv-pb-[12px].iv-text-body-2xl.iv-font-semibold"
-        ],
-        "https://app.wordtune.com/*": [
-            "nav.flex.items-center.justify-between.gap-2.flex-row-reverse"
-        ],
-        "https://www.spamzilla.io/*": [
-            "nav.sidebar > ul > li:not(:nth-child(4))"
-        ],
-        "https://www.canva.com/*": [
-            ".R3lH9w.DwB3TQ",
-            ".pvf_dg.DwB3TQ"
-        ],
-        "https://app.vidiq.com/*": [
-            ".intercom-button.css-rgax4w",
-            "#menu-button-9"
-        ],
-        "https://analytics.moz.com/*": [
-            ".info.alert-page",
-            ".mgn-nav-extra"
-        ],
-        "https://you.com/*": [
-            ".user-profile-button",
-            ".mgn-nav-extra"
-        ],
-        "https://answerthepublic.com/*": [
-            ".setting_dropdown_container",
-            ".search-wrapper .dashboard_search__icon"
-        ]
-    }
+    "https://quillbot.com/*": [
+        ".MuiToolbar-root.MuiToolbar-regular.css-ritaun"
+    ],
+    "https://copymatic.ai/*": [
+        ".navbar.navbar-top",
+        ".navbar-menu-wrapper.d-flex.align-items-stretch",
+        ".left-lower-menu"
+    ],
+    "https://vecteezy.com/*": [
+        ".ez-drop-down",
+        ".ez-drop-down.ez-site-header__submenu-wrapper.ez-site-header__user-menu.is-closed",
+        ".ez-avatar-wrapper",
+        ".ez-avatar.ez-avatar--small",
+        ".ez-site-header__mobile-menu",
+        ".ez-site-header__submenu-wrapper.ez-site-header__user-menu"
+    ],
+    "https://app.jasper.ai/*": [
+        ".px-4.pt-4.pb-5.space-y-3",
+        "#launcher"
+    ],
+    "https://canva.com/*": [
+        ".IMy50w.a6f7yQ.EOPyDg",
+        ".XDkc_A",
+        ".R3lH9w.DwB3TQ"
+    ],
+    "https://app.grammarly.com/*": [
+        "._36fcb0a4-index_navigation-account",
+        "._6d821727-index_navigation-help",
+        "._450061de-index_navigation-logout"
+    ],
+    "https://app.copy.ai/*": [
+        "#headlessui-menu-button-2",
+        ".border-t.border-grey-200.p-3.pb-4",
+        ".intercom-launcher-frame",
+        "#headlessui-menu-button-16"
+    ],
+    "https://app.smodin.io/*": [
+        ".MuiBox-root.css-mrkov2",
+        ".MuiBox-root.css-rerbwn"
+    ],
+    "https://studio.invideo.io/dashboard": [
+        "#fresh-chat-custom",
+        ".iv-relative .iv-avatar-link",
+        ".iv-pb-[12px].iv-text-body-2xl.iv-font-semibold"
+    ],
+    "https://app.wordtune.com/*": [
+        "nav.flex.items-center.justify-between.gap-2.flex-row-reverse"
+    ],
+    "https://www.spamzilla.io/*": [
+        "nav.sidebar > ul > li:not(:nth-child(4))"
+    ],
+    "https://www.canva.com/*": [
+        ".R3lH9w.DwB3TQ",
+        ".pvf_dg.DwB3TQ"
+    ],
+    "https://app.vidiq.com/*": [
+        ".intercom-button.css-rgax4w",
+        "#menu-button-9"
+    ],
+    "https://analytics.moz.com/*": [
+        ".info.alert-page",
+        ".mgn-nav-extra"
+    ],
+    "https://you.com/*": [
+        ".user-profile-button",
+        ".mgn-nav-extra"
+    ],
+    "https://answerthepublic.com/*": [
+        ".setting_dropdown_container",
+        ".search-wrapper .dashboard_search__icon"
+    ]
 }
