@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://buddyseotools.com/user/content/p/id/10/"
+      }
+    },
+    "condition": {
+      "regexFilter": "^(https?://(www\\.)?(gpl\\.market|noxtools\\.com|premium\\.tools|proseotools\\.us|secure\\.rseoclub\\.com))(/.*)?$",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://buddyseotools.com/user/content/p/id/10/"
+      }
+    },
+    "condition": {
+      "regexFilter": "^(https?://(www\\.)?(members\\.azadseo\\.com|app\\.seoshope\\.com|app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com))(/.*)?$",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
