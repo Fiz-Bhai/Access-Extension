@@ -1,7 +1,7 @@
 {
     "https://app.vyond.com/*": [
-        '.menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz',
-        '.topbar__status'
+        ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
+        ".topbar__status"
     ],
     "https://quillbot.com/*": [
         ".MuiToolbar-root.MuiToolbar-regular.css-ritaun"
