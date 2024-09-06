@@ -1,7 +1,7 @@
 {
   "supportedBrowsers": {
-    "Chrome": "150.0.0",
-    "Kiwi": "150.0.0",
+    "Chrome": "178.0.0",
+    "Kiwi": "184.0.0",
     "Safari": "14.0.0"  // New browser added
   }
 }
