@@ -10,7 +10,6 @@
 .core-msg {
   display: none !important;
 }
-.access-button,
 .show,
 .am-google-button {
   display: block !important;
@@ -26,6 +25,6 @@ body{
     pointer-events: auto !important; /* or any other desired value */
 }
 
-/*hide,access-button (this is extesnion related access page code class)*/
+/*hide,show (this is extesnion related access page code class)*/
 /*boddy,bg-opacity-50 (this is aiseo popup block class)*/
 
