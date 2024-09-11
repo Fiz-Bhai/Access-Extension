@@ -1,4 +1,8 @@
 {
+    "https://www.google.com/*": [
+            ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
+            ".gb_Re"
+        ],
     "https://app.vyond.com/*": [
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
