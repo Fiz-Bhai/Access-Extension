@@ -4,6 +4,9 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://www.coursera.org/*": [
+            ".bt3-dropdown",
+        ],
     "https://quillbot.com/*": [
         ".MuiToolbar-root.MuiToolbar-regular.css-ritaun"
     ],
