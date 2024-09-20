@@ -5,7 +5,7 @@
             ".topbar__status"
         ],
     "https://www.coursera.org/*": [
-            "#right-nav-dropdown-btn",
+            "#right-nav-dropdown-btn"
         ],
     "https://quillbot.com/*": [
         ".MuiToolbar-root.MuiToolbar-regular.css-ritaun"
