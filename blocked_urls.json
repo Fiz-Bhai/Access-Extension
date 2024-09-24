@@ -4,5 +4,6 @@
   "https://www.coursera.org/my-purchases/*",
   "https://www.coursera.org/account-settings/*",
   "https://www.coursera.org/account-profile/*",
-  "https://www.coursera.org/change/*"
+  "https://www.coursera.org/change/*",
+  "https://us14.admin.mailchimp.com/account/*"
 ]
