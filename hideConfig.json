@@ -5,11 +5,10 @@
             ".topbar__status"
         ],
     "https://gemini.google.com/*": [
-            ".boqOnegoogleliteOgbOneGoogleBar",
-            ".gb_Se"
+            ".boqOnegoogleliteOgbOneGoogleBar"
         ],
-    "https://us14.admin.mailchimp.com/*": [
-            "#logout"
+    "https://one.google.com/*": [
+            "gb_Se"
         ],
     "https://www.coursera.org/*": [
             "#right-nav-dropdown-btn"
