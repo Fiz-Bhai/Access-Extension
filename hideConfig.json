@@ -5,7 +5,8 @@
             ".topbar__status"
         ],
     "https://gemini.google.com/*": [
-            ".boqOnegoogleliteOgbOneGoogleBar"
+            ".boqOnegoogleliteOgbOneGoogleBar",
+            ".gb_Se"
         ],
     "https://us14.admin.mailchimp.com/*": [
             "#logout"
