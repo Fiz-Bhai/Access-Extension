@@ -7,6 +7,9 @@
     "https://gemini.google.com/*": [
             ".boqOnegoogleliteOgbOneGoogleBar"
         ],
+    "https://mj.proseotools.us/*": [
+            ".col-xs-12"
+        ],
     "https://one.google.com/*": [
             "gb_Se"
         ],
