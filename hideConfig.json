@@ -6,6 +6,7 @@
         ],
     "https://online.seranking.com/*": [
             ".left-menu-group-user",
+            ".trial-notification",
             ".profile-menu__item"
         ],
     "https://gemini.google.com/*": [
