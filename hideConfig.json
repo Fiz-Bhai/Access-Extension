@@ -4,6 +4,10 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://www.seoptimer.com/*": [
+            ".tooltip-css",
+            ".header-discount"
+        ],
     "https://online.seranking.com/*": [
             ".left-menu-group-user",
             ".trial-notification",
