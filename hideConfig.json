@@ -4,6 +4,10 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://online.seranking.com/*": [
+            ".left-menu-group-user",
+            ".profile-menu__item"
+        ],
     "https://gemini.google.com/*": [
             ".boqOnegoogleliteOgbOneGoogleBar"
         ],
