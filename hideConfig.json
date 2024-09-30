@@ -33,8 +33,9 @@
         ".left-lower-menu"
     ],
     "https://www.vecteezy.com/*": [
-        ".ez-site-header__user-menu is-closed",
-        ".site-banner--reactivation"
+        ".ez-drop-down__title ez-site-header__submenu__title",
+        ".site-banner--reactivation",
+        ".free-trial-menu-badge"
         
     ],
     "https://app.jasper.ai/*": [
