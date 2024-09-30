@@ -40,7 +40,6 @@
         ".ez-site-header__mobile-menu",
         ".ez-drop-down__title ez-site-header__submenu__title",
         ".free-trial-menu-badge",
-        ".ez-site-header__submenu-wrapper.ez-site-header__user-menu",
         ".site-banner--reactivation"
     ],
     "https://app.jasper.ai/*": [
