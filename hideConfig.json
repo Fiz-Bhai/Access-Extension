@@ -33,12 +33,7 @@
         ".left-lower-menu"
     ],
     "https://www.vecteezy.com/*": [
-        ".ez-drop-down",
-        ".ez-drop-down.ez-site-header__submenu-wrapper.ez-site-header__user-menu.is-closed",
-        ".ez-avatar-wrapper",
-        ".ez-avatar.ez-avatar--small",
-        ".ez-site-header__mobile-menu",
-        ".ez-drop-down__title ez-site-header__submenu__title"
+        
     ],
     "https://app.jasper.ai/*": [
         ".px-4.pt-4.pb-5.space-y-3",
