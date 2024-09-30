@@ -33,6 +33,8 @@
         ".left-lower-menu"
     ],
     "https://www.vecteezy.com/*": [
+        ".ez-site-header__user-menu is-closed",
+        ".site-banner--reactivation"
         
     ],
     "https://app.jasper.ai/*": [
