@@ -41,8 +41,7 @@
         ".ez-drop-down__title ez-site-header__submenu__title",
         ".free-trial-menu-badge",
         ".ez-site-header__submenu-wrapper.ez-site-header__user-menu",
-        ".site-banner--reactivation",
-        ".ez-site-header__session-nav__wrapper"
+        ".site-banner--reactivation"
     ],
     "https://app.jasper.ai/*": [
         ".px-4.pt-4.pb-5.space-y-3",
