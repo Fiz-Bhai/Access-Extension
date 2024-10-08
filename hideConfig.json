@@ -4,6 +4,9 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://keywordtool.io/*": [
+            ".nav-link-account"
+        ],
     "https://www.semrush.com/*": [
             ".srf-dropdown"
         ],
