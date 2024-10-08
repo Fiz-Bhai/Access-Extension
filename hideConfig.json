@@ -5,7 +5,7 @@
             ".topbar__status"
         ],
     "https://keywordtool.io/*": [
-            ".nav-link-account",
+            ".nav-item-account.nav-item.dropdown",
             ".sticky-messages"
         ],
     "https://www.semrush.com/*": [
