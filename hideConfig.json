@@ -8,7 +8,8 @@
             ".border-t",
             ".py-6",
             ".text-2xl",
-            ".shadow-inner"
+            ".shadow-inner",
+            ".h-16"
         ],
     "https://keywordtool.io/*": [
             ".nav-item-account.nav-item.dropdown",
