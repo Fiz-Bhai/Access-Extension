@@ -6,7 +6,9 @@
         ],
     "https://phrasly.ai/*": [
             ".border-t",
-            ".py-6"
+            ".py-6",
+            ".text-2xl",
+            ".shadow-inner"
         ],
     "https://keywordtool.io/*": [
             ".nav-item-account.nav-item.dropdown",
