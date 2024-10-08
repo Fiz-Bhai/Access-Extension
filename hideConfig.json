@@ -9,7 +9,8 @@
             ".py-6",
             ".text-2xl",
             ".shadow-inner",
-            ".h-16"
+            ".h-16",
+            ".space-x-4"
         ],
     "https://keywordtool.io/*": [
             ".nav-item-account.nav-item.dropdown",
