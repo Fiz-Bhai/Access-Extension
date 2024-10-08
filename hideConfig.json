@@ -5,7 +5,8 @@
             ".topbar__status"
         ],
     "https://keywordtool.io/*": [
-            ".nav-link-account"
+            ".nav-link-account",
+            ".sticky-messages"
         ],
     "https://www.semrush.com/*": [
             ".srf-dropdown"
