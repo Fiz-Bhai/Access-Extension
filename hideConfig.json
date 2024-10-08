@@ -4,6 +4,10 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://phrasly.ai/*": [
+            ".flex.items-center.transition.gap-x-3\.5.border-t.dark\:border-gray-700.pt-3.w-full",
+            ".md\\:flex .md\\:items-center .bg-white .dark\\:bg-dark-primary .border-b .dark\\:border-gray-500\\/20 .md\\:justify-between .md\\:space-x-5 .py-6 .px-4 .sm\\:px-6 .lg\\:px-8 .ai"
+        ],
     "https://keywordtool.io/*": [
             ".nav-item-account.nav-item.dropdown",
             ".sticky-messages"
