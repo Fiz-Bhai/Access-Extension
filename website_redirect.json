@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "regexFilter": "^(https?://(www\\.)?(gpl\\.market|noxtools\\.com|premium\\.tools|proseotools\\.us|secure\\.rseoclub\\.com))(/.*)?$",
+      "regexFilter": "^(https?://(www\\.)?(gpl\\.market|noxtools\\.com|proseotools\\.us|secure\\.rseoclub\\.com))(/.*)?$",
       "resourceTypes": ["main_frame"]
     }
   },
