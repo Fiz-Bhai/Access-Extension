@@ -35,7 +35,8 @@
             ".header-discount"
         ],
     "https://pro.similarweb.com/*": [
-            ".UserSettingsWrapper-bHrTYj eJkno"
+            ".UserSettingsWrapper-bHrTYj eJkno",
+            ".StyledInviteUsersButton-hCilat"
         ],
     "https://online.seranking.com/*": [
             ".left-menu-group-user",
