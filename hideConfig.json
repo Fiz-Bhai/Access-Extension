@@ -122,6 +122,10 @@
         ".info.alert-page",
         ".mgn-nav-extra"
     ],
+    https://moz.com/*": [
+        ".info.alert-page",
+        ".mgn-nav-extra"
+    ],
     "https://you.com/*": [
         ".user-profile-button",
         ".mgn-nav-extra"
