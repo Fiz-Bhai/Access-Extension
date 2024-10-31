@@ -5,7 +5,7 @@
             ".topbar__status"
         ],
     "https://chatgpt.com/*": [
-            ".flex.items-center.gap-2.pr-1.leading-\[0\]"
+            ".flex.items-center.gap-2.pr-1"
         ],
     "https://designs.ai/*": [
             ".jss177"
