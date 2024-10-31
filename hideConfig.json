@@ -4,6 +4,9 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://www.sellthetrend.com/*": [
+            ".left-sidebar__bottom"
+        ],
     "https://chatgpt.com/*": [
             ".flex.items-center.gap-2.pr-1"
         ],
@@ -116,10 +119,6 @@
     "https://www.canva.com/*": [
         ".R3lH9w.DwB3TQ",
         ".pvf_dg.DwB3TQ"
-    ],
-    "https://app.vidiq.com/*": [
-        ".intercom-button.css-rgax4w",
-        "#menu-button-9"
     ],
     "https://analytics.moz.com/*": [
         ".info.alert-page",
