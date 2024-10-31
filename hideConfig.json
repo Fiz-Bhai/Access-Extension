@@ -6,7 +6,7 @@
         ],
     "https://www.sellthetrend.com/*": [
             ".left-sidebar__bottom",
-            ".bg-white notifications bill_icon show position-fixed d-none"
+            ".bg-white.notifications.bill_icon.show.position-fixed.d-none"
         ],
     "https://chatgpt.com/*": [
             ".flex.items-center.gap-2.pr-1"
