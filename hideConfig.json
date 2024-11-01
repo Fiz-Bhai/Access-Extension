@@ -127,8 +127,7 @@
         ".mgn-nav-extra"
     ],
     "https://moz.com/*": [
-        ".info.alert-page",
-        ".mgn-nav-extra"
+        "#mzr-navbarDropdown-1025272"
     ],
     "https://you.com/*": [
         ".user-profile-button",
