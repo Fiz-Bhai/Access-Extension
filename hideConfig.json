@@ -132,6 +132,9 @@
     "https://moz.com/*": [
         "#mzr-navbarDropdown-1025272"
     ],
+    "https://app.moz.com/*": [
+        ".mgn-profile"
+    ],
     "https://you.com/*": [
         ".user-profile-button",
         ".mgn-nav-extra"
