@@ -116,7 +116,8 @@
         ".iv-pb-[12px].iv-text-body-2xl.iv-font-semibold"
     ],
     "https://app.wordtune.com/*": [
-        "nav.flex.items-center.justify-between.gap-2.flex-row-reverse"
+        "nav.flex.items-center.justify-between.gap-2.flex-row-reverse",
+        "relative.flex.items-center.bg-transparent"
     ],
     "https://www.spamzilla.io/*": [
         "nav.sidebar > ul > li:not(:nth-child(4))"
