@@ -7,7 +7,7 @@
     "https://app.copyleaks.com/*": [
             ".cky-overlay",
             ".cky-modal",
-            ".cky-consent-container.cky-popup-center",
+            ".cky-consent-container.cky-popup-center"
         ],
     "https://claude.ai/*": [
             ".inline-block.max-w-full.align-middle"
