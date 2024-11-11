@@ -8,7 +8,8 @@
             ".cky-overlay",
             ".cky-modal",
             ".cky-consent-container.cky-popup-center",
-            ".ng-tns-c209-61.ng-star-inserted"
+            ".ng-tns-c209-61.ng-star-inserted",
+            ".mat-button-wrapper"
         ],
     "https://app.neilpatel.com/*": [
             ".inline-block.max-w-full.align-middle"
