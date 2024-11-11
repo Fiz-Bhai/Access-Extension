@@ -12,10 +12,10 @@
     "https://app.neilpatel.com/*": [
             ".inline-block.max-w-full.align-middle"
         ],
-    "https://claude.ai/*": [
+    "https://app.neilpatel.com/*": [
             ".ReactModalPortal"
         ],
-    "https://app.neilpatel.com/*": [
+    "https://claude.ai/*": [
             ".sc-fuTSoq.dwtZRP"
         ],
     "https://www.sellthetrend.com/*": [
