@@ -10,10 +10,8 @@
             ".cky-consent-container.cky-popup-center"
         ],
     "https://app.neilpatel.com/*": [
-            ".inline-block.max-w-full.align-middle"
-        ],
-    "https://app.neilpatel.com/*": [
-            ".ReactModalPortal"
+            ".inline-block.max-w-full.align-middle",
+             ".ReactModalPortal"
         ],
     "https://claude.ai/*": [
             ".sc-fuTSoq.dwtZRP"
