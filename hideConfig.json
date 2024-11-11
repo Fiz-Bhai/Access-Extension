@@ -7,8 +7,7 @@
     "https://app.copyleaks.com/*": [
             ".cky-overlay",
             ".cky-modal",
-            ".cky-consent-container.cky-popup-center",
-            ".ng-tns-c200-1.ng-star-inserted"
+            ".cky-consent-container.cky-popup-center"
         ],
     "https://app.neilpatel.com/*": [
             ".inline-block.max-w-full.align-middle"
