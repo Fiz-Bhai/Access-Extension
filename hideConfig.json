@@ -10,8 +10,11 @@
             ".cky-consent-container.cky-popup-center",
             ".ng-tns-c209-61.ng-star-inserted"
         ],
-    "https://claude.ai/*": [
+    "https://app.neilpatel.com/*": [
             ".inline-block.max-w-full.align-middle"
+        ],
+    "https://claude.ai/*": [
+            ".ReactModalPortal"
         ],
     "https://app.neilpatel.com/*": [
             ".sc-fuTSoq.dwtZRP"
