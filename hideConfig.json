@@ -12,7 +12,7 @@
         ],
     "https://app.neilpatel.com/*": [
             ".sc-fuTSoq.dwtZRP",
-             ".ReactModalPortal"
+             ".ReactModal__Overlay.ReactModal__Overlay--after-open"
         ],
     "https://claude.ai/*": [
             ".sc-fuTSoq.dwtZRP"
