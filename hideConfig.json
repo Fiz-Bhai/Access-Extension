@@ -11,8 +11,7 @@
             ".mat-focus-indicator.mat-menu-trigger.mat-tooltip-trigger.user-avatar-btn.mat-icon-button.mat-button-base.ng-star-inserted"
         ],
     "https://app.neilpatel.com/*": [
-            ".sc-fuTSoq.dwtZRP",
-             ".ReactModal__Overlay.ReactModal__Overlay--after-open"
+            ".sc-fuTSoq.dwtZRP"
         ],
     "https://claude.ai/*": [
             ".sc-fuTSoq.dwtZRP"
