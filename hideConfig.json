@@ -17,7 +17,7 @@
             ".clickable-element.bubble-element.Button.baTaNag"
         ],
     "https://claude.ai/*": [
-            ".inline-flex.items-center.justify-center.relative.shrink-0.ring-offset-2.ring-offset-bg-300.ring-accent-main-100.focus-visible"
+            ".inline-block.max-w-full.align-middle"
         ],
     "https://www.sellthetrend.com/*": [
             ".left-sidebar__bottom",
