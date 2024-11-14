@@ -24,9 +24,6 @@
             "#notificationIcon",
             "#customNotificationsMenu"
         ],
-    "https://chatgpt.com/*": [
-            ".flex.items-center.gap-2.pr-1"
-        ],
     "https://designs.ai/*": [
             ".jss177"
         ],
