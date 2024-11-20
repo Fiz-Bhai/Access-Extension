@@ -13,9 +13,6 @@
     "https://app.neilpatel.com/*": [
             ".sc-fuTSoq.dwtZRP"
         ],
-    "https://chatgpt.com/*": [
-            ".flex.h-10.w-10.items-center.justify-center.rounded-full"
-        ],
     "https://writehuman.ai/*": [
             ".clickable-element.bubble-element.Button.baTaNag"
         ],
