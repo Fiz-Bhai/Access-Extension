@@ -11,7 +11,8 @@
             ".flex.h-10.w-10.items-center.justify-center.rounded-full"
         ],
     "https://motionarray.com/*": [
-            ".flex.items-center.text-b78"
+            ".flex.items-center.text-b78",
+            ".mr-5.whitespace-nowrap.text-b78"
         ],
     "https://app.copyleaks.com/*": [
             ".cky-overlay",
