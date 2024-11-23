@@ -4,9 +4,6 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
-    "https://claude.ai/*": [
-            ".inline-flex.items-center.justify-center.relative.shrink-0.ring-offset-2.ring-offset-bg-300.ring-accent-main-100"
-        ],
     "https://chatgpt.com/*": [
             ".flex.h-10.w-10.items-center.justify-center.rounded-full"
         ],
