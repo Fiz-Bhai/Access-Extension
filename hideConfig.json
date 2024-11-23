@@ -7,9 +7,6 @@
     "https://claude.ai/*": [
             ".inline-flex.items-center.justify-center.relative.shrink-0.ring-offset-2.ring-offset-bg-300.ring-accent-main-100"
         ],
-    "https://app.aiseo.ai/*": [
-            ".fixed.top-0.left-0.w-full.h-full.bg-black.bg-opacity-50"
-        ],
     "https://chatgpt.com/*": [
             ".flex.h-10.w-10.items-center.justify-center.rounded-full"
         ],
