@@ -23,7 +23,7 @@
       }
     },
     "condition": {
-      "regexFilter": "^(https?://(www\\.)?(members\\.azadseo\\.com|app\\.seoshope\\.com|app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com))(/.*)?$",
+      "regexFilter": "^(https?://(www\\.)?(app\\.seoshope\\.com|app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com))(/.*)?$",
       "resourceTypes": ["main_frame"]
     }
   }
