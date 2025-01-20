@@ -4,6 +4,9 @@
             ".menu-item.TopBar_menuItem__AUQXo.TopBar_right__coJaz",
             ".topbar__status"
         ],
+    "https://sketchgeniusapp.com/*": [
+            ".header-dropdown.dropdown"
+        ],
     "https://chatgpt.com/*": [
             ".flex.h-10.w-10.items-center.justify-center.rounded-full"
         ],
