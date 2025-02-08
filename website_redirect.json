@@ -5,7 +5,7 @@
     "action": {
       "type": "redirect",
       "redirect": {
-        "url": "https://buddyseotools.com/user/page/Access+Error"
+        "url": "https://app.buddyseotools.com/page/Access+Error"
       }
     },
     "condition": {
