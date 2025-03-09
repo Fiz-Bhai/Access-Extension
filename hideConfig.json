@@ -7,6 +7,9 @@
     "https://sketchgeniusapp.com/*": [
             ".header-dropdown.dropdown"
         ],
+    "https://chatgpt.com/*": [
+            ".vertical"
+        ],
     "https://copymatic.click/*": [
             ".nav-link dropdown-toggle"
         ],
