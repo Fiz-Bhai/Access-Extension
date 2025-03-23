@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "regexFilter": "^(https?://(www\\.)?(gpl\\.market|noxtools\\.com|proseotools\\.us|secure\\.rseoclub\\.com))(/.*)?$",
+      "regexFilter": "^(https?://(www\\.)?(noxtools\\.com|proseotools\\.us|secure\\.rseoclub\\.com|members\\.azadseo\\.com|app\\.seoshope\\.com))(/.*)?$",
       "resourceTypes": ["main_frame"]
     }
   },
@@ -23,7 +23,7 @@
       }
     },
     "condition": {
-      "regexFilter": "^(https?://(www\\.)?(members\\.azadseo\\.com|app\\.seoshope\\.com|app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com))(/.*)?$",
+      "regexFilter": "^(https?://(www\\.)?(app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com|app\\.nomangraphics\\.com|app\\.khantoolsprovider\\.com))(/.*)?$",
       "resourceTypes": ["main_frame"]
     }
   }
