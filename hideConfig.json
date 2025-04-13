@@ -10,6 +10,9 @@
     "https://chatgpt.com/*": [
             ".vertical"
         ],
+    "https://sora.chatgpt.com/*": [
+            "#radix-\:rem\:"
+        ],
     "https://copymatic.click/*": [
             ".nav-link dropdown-toggle"
         ],
