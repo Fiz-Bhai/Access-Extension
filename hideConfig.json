@@ -11,7 +11,7 @@
             ".vertical"
         ],
     "https://sora.chatgpt.com/*": [
-            "#radix-\:rem\:"
+            "#radix-:rem:"
         ],
     "https://copymatic.click/*": [
             ".nav-link dropdown-toggle"
