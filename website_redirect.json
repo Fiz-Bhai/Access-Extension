@@ -23,7 +23,7 @@
       }
     },
     "condition": {
-      "regexFilter": "^(https?://(www\\.)?(app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com|app\\.nomangraphics\\.com|app\\.khantoolsprovider\\.com))(/.*)?$",
+      "regexFilter": "^(https?://(www\\.)?(app\\.toolzbuy\\.com|app\\.premium\\.tools|account\\.preemptive\\.com|app\\.nomangraphics\\.com|app\\.nexgenixtools\\.com))(/.*)?$",
       "resourceTypes": ["main_frame"]
     }
   }
