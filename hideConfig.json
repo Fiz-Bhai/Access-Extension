@@ -172,6 +172,7 @@
         ".search-wrapper .dashboard_search__icon"
     ],
     "https://app.stealthwriter.ai/*": [
-        "button#radix-\\:r4\\:"
-    ]
+    "button#radix-\\:r4\\:",
+    "div.px-2.py-2 button.inline-flex.items-center.whitespace-nowrap.rounded-md"
+  ]
 }
