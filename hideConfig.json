@@ -172,6 +172,6 @@
         ".search-wrapper .dashboard_search__icon"
     ],
     "https://app.stealthwriter.ai/*": [
-        ".relative.flex.shrink-0.overflow-hidden.rounded-full.h-8.w-8"
+        "button#radix-\\:r4\\:"
     ]
 }
