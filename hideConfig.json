@@ -170,5 +170,8 @@
     "https://answerthepublic.com/*": [
         ".setting_dropdown_container",
         ".search-wrapper .dashboard_search__icon"
+    ],
+    "https://app.stealthwriter.ai/*": [
+        ".relative.flex.shrink-0.overflow-hidden.rounded-full.h-8.w-8"
     ]
 }
