@@ -1,5 +1,4 @@
-.hide,
-.zone-name-title, {
+.hide {
   display: none !important;
 }
 .show,
@@ -8,13 +7,6 @@
 }
 .hpading {
   margin-bottom: 12% !important;
-}
-.am-signup-link{
-  margin-top: 0px !important;
-}
-body{
-    overflow: visible !important; /* or any other desired value */
-    pointer-events: auto !important; /* or any other desired value */
 }
 
 /*hide,show (this is extesnion related access page code class)*/
