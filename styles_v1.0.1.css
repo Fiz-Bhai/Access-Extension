@@ -1,22 +1,22 @@
-.jfN4p,
-.pastdue_popup_v1,
-.bg-opacity-50,
 .hide,
-.sf-modal,
-.zone-name-title,
-#XCYt6,
-#RkQXI5,
-#tool,
-.core-msg,
-.truncate,
-.extension_detector,
-.nr9DhCl_ McVQtipP{
+.zone-name-title, {
   display: none !important;
 }
 .show,
 .am-google-button {
   display: block !important;
 }
+.hpading {
+  margin-bottom: 12% !important;
+}
+.am-signup-link{
+  margin-top: 0px !important;
+}
+body{
+    overflow: visible !important; /* or any other desired value */
+    pointer-events: auto !important; /* or any other desired value */
+}
+
 /*hide,show (this is extesnion related access page code class)*/
 /*nr9DhCl_ McVQtipP,Envato upgrade Button hide*/
 /*boddy,bg-opacity-50 (this is aiseo popup block class)*/
