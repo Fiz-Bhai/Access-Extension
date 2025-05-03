@@ -174,5 +174,8 @@
     "https://app.stealthwriter.ai/*": [
     "button#radix-\\:r4\\:",
     "div.px-2.py-2 button.inline-flex.items-center.whitespace-nowrap.rounded-md"
+  ],
+    "https://pollo.ai/*": [
+    ".user-valid\\:block"
   ]
 }
