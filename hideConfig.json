@@ -177,9 +177,5 @@
   ],
     "https://pollo.ai/*": [
     ".user-valid\\:block"
-  ],
-    "https://app.ahrefs.com/*": [
-    "div.css-1lxel9s.css-0.css-j4auk-row.css-zcxndt.css-qdmemo",
-    ".css-1rwqq8c.css-0.css-j4auk-row.css-zcxndt.css-5m21sc-rowFitToContent.css-c3zxon-rowFullHeight.css-qdmemo"
   ]
 }
