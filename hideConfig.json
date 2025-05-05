@@ -8,7 +8,10 @@
             ".header-dropdown.dropdown"
         ],
     "https://chatgpt.com/*": [
-            ".vertical"
+            ".vertical",
+            "div.relative.mt-5",
+            "ol li[data-testid^='history-item']",
+            ".bg-token-sidebar-surface-primary"
         ],
     "https://sora.chatgpt.com/*": [
             "#radix-:rem:"
