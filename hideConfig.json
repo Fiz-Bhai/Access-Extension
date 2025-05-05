@@ -180,5 +180,10 @@
   ],
     "https://pollo.ai/*": [
     ".user-valid\\:block"
+  ],
+   "https://app.ahrefs.com/*": [
+    ".css-1kkfpmb",
+    ".updateable__workspace-name"
   ]
+}
 }
