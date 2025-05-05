@@ -9,9 +9,7 @@
         ],
     "https://chatgpt.com/*": [
             ".vertical",
-            "div.relative.mt-5",
-            "ol li[data-testid^='history-item']",
-            ".bg-token-sidebar-surface-primary"
+            "#history"
         ],
     "https://sora.chatgpt.com/*": [
             "#radix-:rem:"
