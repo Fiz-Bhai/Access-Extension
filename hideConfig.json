@@ -8,10 +8,9 @@
             ".header-dropdown.dropdown"
         ],
     "https://chatgpt.com/*": [
+            "#history",
             ".vertical",
-            "nav.flex",
-            "div#history",
-            ".overflow-y-auto.bg-token-sidebar-surface-primary"
+            ".flex flex-col.gap-2.text-token-text-primary.text-sm.mt-5"
         ],
     "https://sora.chatgpt.com/*": [
             "#radix-:rem:"
