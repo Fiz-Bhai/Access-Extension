@@ -10,7 +10,7 @@
     "https://chatgpt.com/*": [
             "#history",
             ".vertical",
-            ".flex flex-col.gap-2.text-token-text-primary.text-sm.mt-5"
+            ".flex.flex-col.gap-2.text-token-text-primary.text-sm.mt-5"
         ],
     "https://sora.chatgpt.com/*": [
             "#radix-:rem:"
