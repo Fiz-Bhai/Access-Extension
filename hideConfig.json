@@ -7,9 +7,10 @@
     "https://sketchgeniusapp.com/*": [
             ".header-dropdown.dropdown"
         ],
-    "https://chatgpt.com/*": [
-            ".vertical",
-            "#history"
+    "https://chat.openai.com/*": [
+            "nav.flex",
+            "div#history",
+            ".overflow-y-auto.bg-token-sidebar-surface-primary"
         ],
     "https://sora.chatgpt.com/*": [
             "#radix-:rem:"
@@ -178,9 +179,5 @@
   ],
     "https://pollo.ai/*": [
     ".user-valid\\:block"
-  ],
-   "https://app.ahrefs.com/*": [
-    ".css-1kkfpmb",
-    ".updateable__workspace-name"
   ]
 }
