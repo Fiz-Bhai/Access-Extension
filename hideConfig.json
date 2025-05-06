@@ -8,10 +8,9 @@
             ".header-dropdown.dropdown"
         ],
     "https://chatgpt.com/*": [
-            "#history",
+            ".relative.mt-5",
             ".vertical",
-            ".flex.h-10.w-10.items-center.justify-center.rounded-full",
-            ".flex.flex-col.gap-2.text-token-text-primary.text-sm.mt-5"
+            ".flex.h-10.w-10.items-center.justify-center.rounded-full"
         ],
     "https://sora.chatgpt.com/*": [
             "#radix-:rem:"
@@ -176,6 +175,6 @@
     "div.px-2.py-2 button.inline-flex.items-center.whitespace-nowrap.rounded-md"
   ],
     "https://pollo.ai/*": [
-    ".relative.flex.cursor-pointer.items-center.gap-0\\.5.after\\:absolute.after\\:bottom-0.after\\:left-0.after\\:h-3.after\\:w-full.after\\:translate-y-full"
+    ".relative.flex.cursor-pointer.items-center"
   ]
 }
