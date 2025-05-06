@@ -8,6 +8,7 @@
             ".header-dropdown.dropdown"
         ],
     "https://chat.openai.com/*": [
+            ".vertical",
             "nav.flex",
             "div#history",
             ".overflow-y-auto.bg-token-sidebar-surface-primary"
