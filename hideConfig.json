@@ -10,6 +10,7 @@
     "https://chatgpt.com/*": [
             "#history",
             ".vertical",
+            ".flex.h-10.w-10.items-center.justify-center.rounded-full"
             ".flex.flex-col.gap-2.text-token-text-primary.text-sm.mt-5"
         ],
     "https://sora.chatgpt.com/*": [
@@ -17,9 +18,6 @@
         ],
     "https://copymatic.click/*": [
             ".nav-link dropdown-toggle"
-        ],
-    "https://chatgpt.com/*": [
-            ".flex.h-10.w-10.items-center.justify-center.rounded-full"
         ],
     "https://envato--by--noxtools--website-----x.e--n--v--a--t--o.click/*": [
             "._7yoIykb4.wpIEkQnn.Qu5eWXzk.uTfIF1K1"
@@ -178,6 +176,6 @@
     "div.px-2.py-2 button.inline-flex.items-center.whitespace-nowrap.rounded-md"
   ],
     "https://pollo.ai/*": [
-    ".user-valid\\:block"
+    ".relative.flex.cursor-pointer.items-center.gap-0\\.5.after\\:absolute.after\\:bottom-0.after\\:left-0.after\\:h-3.after\\:w-full.after\\:translate-y-full"
   ]
 }
