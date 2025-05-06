@@ -7,7 +7,7 @@
     "https://sketchgeniusapp.com/*": [
             ".header-dropdown.dropdown"
         ],
-    "https://chat.openai.com/*": [
+    "https://chatgpt.com/*": [
             ".vertical",
             "nav.flex",
             "div#history",
