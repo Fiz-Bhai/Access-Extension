@@ -28,6 +28,7 @@
   "https://pollo.ai/settings/*",
   "https://pollo.ai/profile/*",
   "https://pollo.ai/app/account/*",
-  "https://www.semrush.com/multilogin/*"
+  "https://www.semrush.com/multilogin/*",
+  "https://app.aiseo.ai/dashboard/account*"
   
 ]
