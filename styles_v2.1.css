@@ -2,8 +2,7 @@
 .exten-update {
   display: none !important;
 }
-.show,
-.am-google-button {
+.show {
   display: block !important;
 }
 .hpading {
