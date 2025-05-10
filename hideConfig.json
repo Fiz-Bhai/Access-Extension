@@ -176,5 +176,8 @@
   ],
     "https://pollo.ai/*": [
     ".relative.flex.cursor-pointer.items-center"
+  ],
+    "https://app.aiseo.ai/*": [
+    ".boddy.bg-opacity-50"
   ]
 }
