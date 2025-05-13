@@ -178,6 +178,6 @@
     ".relative.flex.cursor-pointer.items-center"
   ],
     "https://app.aiseo.ai/*": [
-    "fixed.left-0.top-0.flex.h-full.w-full.items-center.justify-center.overflow-hidden.bg-black.bg-opacity-50"
+    ".bg-opacity-50"
   ]
 }
