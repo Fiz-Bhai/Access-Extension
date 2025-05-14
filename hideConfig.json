@@ -70,7 +70,7 @@
         ],
     "https://www.semrush.com/*": [
             ".srf-header__menu-link",
-            ".srf-layout__footer"
+            ".srf-footer__hide-mobile"
         ],
     "https://app.speechify.com/*": [
             ".text-zinc-600"
