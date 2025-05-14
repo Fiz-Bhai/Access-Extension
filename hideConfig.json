@@ -69,8 +69,7 @@
             ".sticky-messages"
         ],
     "https://www.semrush.com/*": [
-            ".srf-header__menu-link.srf-header__has-submenu-link.srf-header__menu-link--user",
-            ".srf-header__menu-link.srf-header__has-submenu-link"
+            ".srf-header__menu-link"
         ],
     "https://app.speechify.com/*": [
             ".text-zinc-600"
