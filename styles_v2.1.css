@@ -8,7 +8,10 @@
 .hpading {
   margin-bottom: 12% !important;
 }
-
+body{
+    overflow: visible !important; /* or any other desired value */
+    pointer-events: auto !important; /* or any other desired value */
+}
 /*hide,show (this is extesnion related access page code class)*/
 /*nr9DhCl_ McVQtipP,Envato upgrade Button hide*/
 /*boddy,bg-opacity-50 (this is aiseo popup block class)*/
