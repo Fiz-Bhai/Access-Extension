@@ -7,6 +7,9 @@
     "https://sketchgeniusapp.com/*": [
             ".header-dropdown.dropdown"
         ],
+    "https://www.canva.com/*": [
+            ".R93pzQ"
+        ],
     "https://chatgpt.com/*": [
             ".relative.mt-5",
             ".vertical",
