@@ -183,6 +183,6 @@
     ".relative.flex.cursor-pointer.items-center"
   ],
     "https://app.aiseo.ai/*": [
-    ".bg-opacity-50"
+    ".bg-opacity-50x"
   ]
 }
