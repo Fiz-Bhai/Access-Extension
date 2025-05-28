@@ -28,6 +28,7 @@
   "https://pollo.ai/settings/*",
   "https://pollo.ai/profile/*",
   "https://pollo.ai/app/account/*",
-  "https://app.aiseo.ai/dashboard/account*"
+  "https://app.aiseo.ai/dashboard/account*",
+  "https://www.canva.com/settings*"
   
 ]
