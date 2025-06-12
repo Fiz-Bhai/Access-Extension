@@ -7,6 +7,9 @@
     "https://sketchgeniusapp.com/*": [
             ".header-dropdown.dropdown"
         ],
+    "https://server1.noxtools.com/*": [
+            ".srf-header__logo"
+        ],
     "https://www.canva.com/*": [
             ".R93pzQ"
         ],
