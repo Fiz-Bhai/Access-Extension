@@ -10,6 +10,19 @@
     "https://server1.noxtools.com/*": [
             ".srf-header__logo"
         ],
+    "https://server2.noxtools.com/*": [
+            ".srf-header__logo"
+        ],
+    "https://server3.noxtools.com/*": [
+            ".srf-header__logo"
+        ],
+    "https://server4.noxtools.com/*": [
+            ".srf-header__logo"
+        ],
+    "https://server5.noxtools.com/*": [
+            ".srf-header__logo"
+        ],
+    
     "https://www.canva.com/*": [
             ".R93pzQ"
         ],
