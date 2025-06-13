@@ -1,4 +1,4 @@
 {
-  "https://app.buddyseotools.com/*": "show{ display: block !important;}",
-
+  "https://app.buddyseotools.com/*": ".show{ display: block !important;}",
+  "https://example.com/*": ".ads{ display: none !important;}"
 }
